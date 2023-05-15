@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscripts/work in progress/some work in process/some work in process.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscripts/work in progress/some work in process/some work in process.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscripts/work in progress/some work in process/some work in process.md"
+                "file": "README.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscripts/work in progress/some work in process/some work in process.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "manuscripts/work in progress/some work in process/some work in process.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,6 +214,7 @@
   },
   "active": "679c68958263f4e6",
   "lastOpenFiles": [
+    "manuscripts/work in progress/some work in process/some work in process.md",
     "journaling/activities/some todo.md",
     "README.md",
     "zettelkasten/ideas/use trial and error to move on step by step.md",
@@ -223,7 +224,6 @@
     "zettelkasten/concepts/solution.md",
     "zettelkasten/concepts/problem.md",
     "references/@Levin2012.md",
-    "manuscripts/work in progress/some work in process/some work in process.md",
     "manuscripts/published/something already published/something already published (probably not yet in this format).md",
     "manuscripts/work in progress/some work in process",
     "projects/example_project/project description.md",
