@@ -1,7 +1,14 @@
 ---
 title: handling super wicked problems 
 authors: 
-date: 2023-05-13
+date: 
+
+documentclass: article
+bibliography: 
+csl: 
+biblio-style: apalike
+toc: yes
+toc_depth: 3
 
 tags:
 - type/manuscript
@@ -14,17 +21,21 @@ tags:
 ## To-Do
 - find out how to solve super wicked problems
 
+
 ## Papers to read
 - everything
 
+
 ## Journal Selection
 - nature
+
 
 # titles and abstract
 
 
 # keywords
 [[super wicked problem]] - [[wicked problem]] - [[trial and error]]
+
 
 # mindmap - outline
 
