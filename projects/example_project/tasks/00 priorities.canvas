@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"text","text":"Do First","id":"0d31247885ef8d07","x":-125,"y":-30,"width":405,"height":390,"color":"5"},
+		{"type":"text","text":"Schedule","id":"fface70161aeca40","x":317,"y":-30,"width":383,"height":390,"color":"3"},
+		{"type":"text","text":"Delegate","id":"21922b0a2cb45a3f","x":-125,"y":400,"width":405,"height":390,"color":"2"},
+		{"type":"text","text":"Don't Do","id":"e74c36b403938eaf","x":317,"y":400,"width":383,"height":390,"color":"1"},
+		{"type":"text","text":"Finished","id":"baa53ba828a0c9a7","x":780,"y":-25,"width":500,"height":620,"color":"4"},
+		{"type":"text","text":"Discarded","id":"eedcee9a9d1ef44f","x":780,"y":640,"width":500,"height":150,"color":"#000000"}
+	],
+	"edges":[]
+}

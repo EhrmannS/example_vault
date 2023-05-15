@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "e04edc8fc4b46448",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fd50f946a331a5d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "refrences/MNO/M/Millins2018.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5dbb199b5b67909f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3787d9761dc7521a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8043ad23c5bbb48e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "94915fc430b16ae8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4cd2d6775723be1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b5a38e87cfeea4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bd8ee4ef4845c05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "refrences/MNO/M/Millins2018.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2f69b6496ed9a7cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d4fa7bee0e33db99",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "active": "3fd50f946a331a5d",
+  "lastOpenFiles": [
+    "refrences/MNO/M/Millins2018.md",
+    "projects/FunBo.md",
+    "refrences/GHI/H/Herold2008.md",
+    "projects/iConBPM.md",
+    "documents/manuscript_making_the_computer_see_landscapes.md",
+    "refrences/MNO/M/Maciel2019.md",
+    "documents/manuscript_biodiv_resilience_armed_conflict.md",
+    "documents/proposal_iConBPM/proposal_iConBPM_does-crop-diversity-enhance-resilience-of-agroecosystems-during-and-after-armed-conflicts.md",
+    "documents/manuscript_building_modern_modular_workflows.md",
+    "documents/manuscript_history_of_landuse_models.md"
+  ]
+}

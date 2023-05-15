@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "./references",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\npublished in: {{containerTitle}}\ndoi: {{DOI}}\n\ntags:\n- type/reference\n- manuscript/sort_in\n- project/sort_in\n- extent/spatial/sort_in\n- extent/temporal/sort_in\n- method/sort_in\n- field/sort_in\n---\n\n# abstract\n{{abstract}}\n\n# keywords\n\n\n# summary\n\n\n# cites\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "./references/references.bib"
+}

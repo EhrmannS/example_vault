@@ -1,0 +1,29 @@
+{
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-comments:add-comment": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "workspace:undo-close-pane": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ]
+}
