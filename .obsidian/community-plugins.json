@@ -3,5 +3,7 @@
   "obsidian-citation-plugin",
   "obsidian-pandoc",
   "obsidian-dynamic-toc",
-  "obsidian-comments"
+  "obsidian-comments",
+  "calendar",
+  "periodic-notes"
 ]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "references/@Levin2012.md",
+                "file": "journaling/activities/some todo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/@Levin2012.md",
+                "file": "journaling/activities/some todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "journaling/activities/some todo.md"
+              }
             }
           },
           {
@@ -122,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "journaling/activities/some todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "references/@Levin2012.md",
+                "file": "journaling/activities/some todo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,8 +170,17 @@
                 }
               }
             }
+          },
+          {
+            "id": "5777b268b66f8a64",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,50 +195,51 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-comments:Show Comments Panel": false
+      "obsidian-comments:Show Comments Panel": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "2f69b6496ed9a7cf",
+  "active": "1af7483b5257ee1e",
   "lastOpenFiles": [
-    "@Egli2020.pdf",
     "README.md",
-    "projects/example_project/tasks/task.md",
-    "projects/example_project/documentation/the super wicked problem.md",
-    "projects/example_project/milestones/milestone.md",
     "documentation/documentation.md",
+    "journaling/daily/2023-05-15.md",
+    "journaling/daily/Untitled.md",
+    "journaling/activities/some todo.md",
+    "journaling/daily/2023-05-14.md",
+    "journaling/weekly/2023-W19.md",
     "manuscripts/ideas/handling super wicked problems.md",
+    "manuscripts/ideas/handling super wicked problems/figures",
+    "manuscripts/ideas/handling super wicked problems/handling super wicked problems.md",
+    "manuscripts/ideas/handling super wicked problems",
+    "projects/example_project/tasks/task.md",
+    "projects/example_project/milestones/milestone.md",
     "projects/example_project/project description.md",
-    "references/@Levin2012.md",
-    "super.md",
-    "[.md",
-    "zettelkasten/ideas/use trial and error to move on step by step.md",
-    "zettelkasten/concepts/solution.md",
-    "zettelkasten/concepts/problem.md",
-    "zettelkasten/concepts/wicked problem.md",
-    "zettelkasten/concepts/trial and error.md",
-    "zettelkasten/questions/what to do.md",
-    "zettelkasten/concepts/concept.md",
+    "projects/example_project/documentation/the super wicked problem.md",
+    "templates/concepts.md",
+    "templates/documentation.md",
+    "templates/idea.md",
+    "templates/manuscript.md",
+    "templates/milestone.md",
+    "templates/task.md",
+    "templates/todo.md",
     "templates/reference.md",
+    "templates/question.md",
+    "templates/proposal.md",
+    "templates/project_description.md",
+    "templates/notes_weekly.md",
+    "templates/notes_daily.md",
+    "journaling/weekly",
+    "journaling/daily",
+    "journaling/activities",
+    "journaling",
+    "@Egli2020.pdf",
     "references/references.bib",
-    "projects/LUCKINet/documentation/99 LUTS - Land-Use Time-Series.md",
-    "projects/LUCKINet/documentation/99 The LUCKINet land use ontology v1.0.0.md",
-    "projects/LUCKINet/documentation/03 census database.md",
-    "projects/LUCKINet/documentation/02 ontology.md",
-    "projects/LUCKINet/documentation/01 framework.md",
     "projects/LUCKINet/documentation/00 loca workflow.canvas",
-    "projects/LUCKINet/documentation/00 loca - LUCKINet overall computation algorithm.md",
-    "projects/LUCKINet/LUCKINet - Land-Use Change Knowledge Integration Network.md",
     "projects/LUCKINet/proposal",
     "projects/BPMConf/proposal/proposal_FlexPoolSupportFund_Does crop diversity enhance resilience of agroecosystems during and after armed conflicts.pdf",
     "projects/LUCKINet/tasks/00 priorities.canvas",
     "projects/Global Pasture Watch/tasks/00 priorities.canvas",
-    "projects/Global Pasture Watch/tasks/finished",
-    "projects/Global Pasture Watch/tasks/discarded",
-    "references/ehrmann.bib.tmp",
-    "projects/Global Pasture Watch/milestones",
-    "projects/Global Pasture Watch/documentation",
-    "projects/LUCKINet/documentation",
-    "projects/LUCKINet/milestones",
     "manuscripts/work in process/Ehrmann - 2023 - modelling in luckinet (sandbox)/figures/modelling_Fig1.png",
     "manuscripts/work in process/Ehrmann - 2023 - modelling in luckinet (sandbox)/figures/modelling_Fig2.png",
     "manuscripts/work in process/Ehrmann - 2023 - modelling in luckinet (sandbox)/figures/modelling_Fig4.png",
