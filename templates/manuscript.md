@@ -9,6 +9,8 @@ csl:
 biblio-style: apalike
 toc: yes
 toc_depth: 3
+# fontsize: 12pt
+# linestretch: 1.15
 
 tags:
 - type/manuscript
