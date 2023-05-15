@@ -3,6 +3,13 @@ title: {{title}}
 authors: 
 date: {{date:YYYY-MM-DD}}
 
+documentclass: article
+bibliography: 
+csl: 
+biblio-style: apalike
+toc: yes
+toc_depth: 3
+
 tags:
 - type/manuscript
 - project/sort_in
