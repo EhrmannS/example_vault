@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
+            "id": "679c68958263f4e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manuscripts/work in progress/some work in process/some work in process.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1af7483b5257ee1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/example_project/project description.md",
+                "file": "references/@Levin2012.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#funding_agency/DFG",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/example_project/project description.md",
+                "file": "manuscripts/work in progress/some work in process/some work in process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/example_project/project description.md"
+                "file": "manuscripts/work in progress/some work in process/some work in process.md"
               }
             }
           },
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/example_project/project description.md",
+                "file": "manuscripts/work in progress/some work in process/some work in process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "projects/example_project/project description.md",
+                "file": "manuscripts/work in progress/some work in process/some work in process.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,8 +212,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1af7483b5257ee1e",
+  "active": "679c68958263f4e6",
   "lastOpenFiles": [
+    "journaling/activities/some todo.md",
+    "README.md",
+    "zettelkasten/ideas/use trial and error to move on step by step.md",
+    "zettelkasten/questions/what to do.md",
+    "zettelkasten/concepts/wicked problem.md",
+    "zettelkasten/concepts/trial and error.md",
+    "zettelkasten/concepts/solution.md",
+    "zettelkasten/concepts/problem.md",
+    "references/@Levin2012.md",
+    "manuscripts/work in progress/some work in process/some work in process.md",
+    "manuscripts/published/something already published/something already published (probably not yet in this format).md",
+    "manuscripts/work in progress/some work in process",
+    "projects/example_project/project description.md",
+    "manuscripts/published/something already published",
     "projects/example_project/tasks/task.md",
     "projects/example_project/tasks/00 priorities.canvas",
     "projects/example_project/tasks/finished/something already finished.md",
@@ -208,10 +235,6 @@
     "documentation/documentation.md",
     "journaling/daily/2023-05-15.md",
     "journaling/weekly/2023-W20.md",
-    "manuscripts/work in progress/some work in process.md",
-    "manuscripts/published/something already published (probably not yet in this format).md",
-    "journaling/activities/some todo.md",
-    "README.md",
     "journaling/daily/Untitled.md",
     "journaling/daily/2023-05-14.md",
     "journaling/weekly/2023-W19.md",
@@ -220,15 +243,8 @@
     "manuscripts/ideas/handling super wicked problems/handling super wicked problems.md",
     "manuscripts/ideas/handling super wicked problems",
     "projects/example_project/milestones/milestone.md",
-    "projects/example_project/project description.md",
     "projects/example_project/documentation/the super wicked problem.md",
     "templates/concepts.md",
-    "templates/documentation.md",
-    "templates/idea.md",
-    "templates/manuscript.md",
-    "templates/milestone.md",
-    "templates/task.md",
-    "templates/todo.md",
     "journaling/weekly",
     "journaling/daily",
     "journaling/activities",
@@ -236,8 +252,6 @@
     "@Egli2020.pdf",
     "references/references.bib",
     "projects/LUCKINet/documentation/00 loca workflow.canvas",
-    "projects/LUCKINet/proposal",
-    "projects/BPMConf/proposal/proposal_FlexPoolSupportFund_Does crop diversity enhance resilience of agroecosystems during and after armed conflicts.pdf",
     "projects/LUCKINet/tasks/00 priorities.canvas",
     "projects/Global Pasture Watch/tasks/00 priorities.canvas",
     "manuscripts/work in process/Ehrmann - 2023 - modelling in luckinet (sandbox)/figures/modelling_Fig1.png",
