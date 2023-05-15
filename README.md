@@ -1,7 +1,7 @@
-```toc
-title: "## Table of Contents"
-max_depth: 2
-```
+## Table of Contents  
+[1. miscellaneous tips](#1-miscellaneous-tips)  
+[2. repository description](#2-repository-description) 
+[3. plugins](#3-plugins)
 
 ## 1. miscellaneous tips
 
