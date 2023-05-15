@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journaling/activities/some todo.md",
+                "file": "projects/example_project/project description.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journaling/activities/some todo.md",
+                "file": "projects/example_project/project description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journaling/activities/some todo.md"
+                "file": "projects/example_project/project description.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journaling/activities/some todo.md",
+                "file": "projects/example_project/project description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "journaling/activities/some todo.md",
+                "file": "projects/example_project/project description.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,18 +201,24 @@
   },
   "active": "1af7483b5257ee1e",
   "lastOpenFiles": [
-    "README.md",
+    "projects/example_project/tasks/task.md",
+    "projects/example_project/tasks/00 priorities.canvas",
+    "projects/example_project/tasks/finished/something already finished.md",
+    "projects/example_project/tasks/discarded/something not relevant anymore.md",
     "documentation/documentation.md",
     "journaling/daily/2023-05-15.md",
-    "journaling/daily/Untitled.md",
+    "journaling/weekly/2023-W20.md",
+    "manuscripts/work in progress/some work in process.md",
+    "manuscripts/published/something already published (probably not yet in this format).md",
     "journaling/activities/some todo.md",
+    "README.md",
+    "journaling/daily/Untitled.md",
     "journaling/daily/2023-05-14.md",
     "journaling/weekly/2023-W19.md",
     "manuscripts/ideas/handling super wicked problems.md",
     "manuscripts/ideas/handling super wicked problems/figures",
     "manuscripts/ideas/handling super wicked problems/handling super wicked problems.md",
     "manuscripts/ideas/handling super wicked problems",
-    "projects/example_project/tasks/task.md",
     "projects/example_project/milestones/milestone.md",
     "projects/example_project/project description.md",
     "projects/example_project/documentation/the super wicked problem.md",
@@ -223,12 +229,6 @@
     "templates/milestone.md",
     "templates/task.md",
     "templates/todo.md",
-    "templates/reference.md",
-    "templates/question.md",
-    "templates/proposal.md",
-    "templates/project_description.md",
-    "templates/notes_weekly.md",
-    "templates/notes_daily.md",
     "journaling/weekly",
     "journaling/daily",
     "journaling/activities",
