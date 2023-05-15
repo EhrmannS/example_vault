@@ -58,10 +58,13 @@ all templates used in this vault.
 #### concepts
 a collection of concepts and their relation to other concepts. to create a new concept, simply encase the concent from which you want to create a concept (e.g., 'method') with a double backet `[[method]]` . when clicking on this link, a new note will be created, which you would sort into the folder *zettelkasten -> concepts* and where you would add details to connect it to other concepts. 
 
-#### ideas
+#### some_collection
+gather ideas and questions in this folder, which is distinct from *zettelkasten/concepts* so that it can be put into a distinct repository that is shared with a group of people (for example those collaborating on a project) without having to share the whole vault.
+
+##### ideas
 similar to concepts, store ideas in this location and either connect them to keywords and/or document where you have made use of the ideas.
 
-#### questions
+##### questions
 and here, store questions and once you found the solution, link it here. if you do not delete these items, it can become an impressive documentation of all the problems you have solved.
 
 ## 3. plugins
