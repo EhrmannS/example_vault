@@ -42,18 +42,27 @@ click into the calendar to the right lower corner
 - start any note in *journaling -> activities* to track to-dos or other things you want to keep track of or remind yourself about. 
 
 ### 2.3 manuscripts
-the place to work on and store your manuscripts. each manuscript should have its own directory, in which you can place whetever other material, such as figures/graphs, co-author coments, documentation of the submission process and the final paper. however, don't put the input data, analyses, tentative figures or output data into this directory, for this, create a specific directory in your *projects* or *data* directory elsewhere.
+the place to work on and store your manuscripts. each manuscript should have its own directory, in which you can place whetever other material, such as figures/graphs, co-author coments, documentation of the submission process and the final paper. however, don't put the input data, analyses, tentative figures or output data into this directory, for this, create a specific directory in your *projects* or *data* directory elsewhere. once a publications is finished and published, move it to *manuscripts/published*.
 
 ### 2.4 projects
-the place to handle your projects. for scientific projects, this includes the project description, the proposal(s), the milestones/working packages, the tasks (should be as detailed as possible and summarised in milestones) and any documentation that may be important for writing a manuscript or report.
+the place to handle your projects. for scientific projects, this includes the project description, the proposal(s), the milestones/working packages, the tasks (should be as detailed as possible and summarised in milestones) and any documentation that may be important for writing a manuscript or report. ideas for new projects can also go here.
 
 ### 2.5 references
 while storing all references in a bib or similar file, you should also have a journal on the things you read in those papers such as a summary in your own words, keywords and a list of references this paper makes. a new such item can be created with the hotkey 'ctrl + shift + o'.
 
-### 2.6 templates
+### 2.6 talks
+the place to store everything about your talks, presentations and posters
+
+#### poster
+so far obsidian can't be used to develop posters, but they can still be viewed and used in other parts of a workflow, so it makes sense to store them here.
+
+#### presentation
+organize presentations into this location.
+
+### 2.7 templates
 all templates used in this vault.
 
-### 2.7 zettelkasten
+### 2.8 zettelkasten
 
 #### concepts
 a collection of concepts and their relation to other concepts. to create a new concept, simply encase the concent from which you want to create a concept (e.g., 'method') with a double backet `[[method]]` . when clicking on this link, a new note will be created, which you would sort into the folder *zettelkasten -> concepts* and where you would add details to connect it to other concepts. 
