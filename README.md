@@ -1,7 +1,8 @@
 ## Table of Contents  
 [1. miscellaneous tips](#1-miscellaneous-tips)  
 [2. repository description](#2-repository-description)  
-[3. plugins](#3-plugins)
+[3. sharing this repository](#3-sharing-this-repository)  
+[4. plugins](#4-plugins)
 
 ## 1. miscellaneous tips
 
@@ -76,5 +77,12 @@ similar to concepts, store ideas in this location and either connect them to key
 ##### questions
 and here, store questions and once you found the solution, link it here. if you do not delete these items, it can become an impressive documentation of all the problems you have solved.
 
-## 3. plugins
+## 3. sharing this repository
+any vault will contain personal information, such as the journal, or ideas one does not want to share with the world just yet. this vault has therefore been designed so that use-cases are grouped into directories so that they can be shared in a meaningful way. for instance, all information about the project (proposal, description, organization) is in the same directory.
+
+it is best to share the complete vault with git (via github/gitlab) with possible collaborators and make use of the [`.gitignore`](https://github.com/github/gitignore) file. there is a 'gitignore' file in this repository, to make use of it simply modify it according to your needs (the folders you want to keep private) and rename it to '.gitignore'.
+
+when ignoring manuscripts, talk, projects, or your personal zettelkasten, you can still decide to initiate a seperate (private) repository, and share it only with your collaborators or workgroup peers, or keep it private all together. 
+
+## 4. plugins
 this repository comes with a range of plugins and default settings (stored in the top-level folder *.obsidian*). feel free to update the plugins and hotkeys according to your needs. there is much to explore, so don't get lost in trying to optimize over and over again!

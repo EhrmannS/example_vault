@@ -1,0 +1,29 @@
+# general ignore
+.trash/
+
+# themes
+.obsidian/themes
+
+# plugins
+#.obsidian/plugins
+
+# plugin settings (includes core plugins)
+#.obsidian/*.json
+
+# or the settings of a specific plugin
+#.obsidian/community-plugins.json
+
+# the directories you want to keep private
+journaling/
+manuscripts/
+projects/
+talks/
+
+# a template that might reveal too much of your workflow
+#templates/proposal_project.md
+
+# your personal zettelkasten
+#zettelkasten/some_collection
+
+# ...
+
