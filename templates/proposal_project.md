@@ -5,7 +5,7 @@ authors:
 
 tags:
 - type/proposal
-- documentation/proposal
+- documentation/project_proposal
 ---
 
 # summary
