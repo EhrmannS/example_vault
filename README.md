@@ -34,7 +34,7 @@ there are operating system specific hotkeys that allow you to access the emotico
 this is a run through the directory structure of this repository. it is tailored towards scientific work (documenting your thought process, connecting ideas and writing manuscripts) and as a side-effect also personal journaling.
 
 ### 2.1 documentation
-insert documentation or any other text that allows to check out some tutorial or other *frequently asked questions* about whatever matters to you.
+insert documentation or any other text that allows to check out some meeting notes, tutorial or other *frequently asked questions* about whatever matters to you.
 
 ### 2.2 journaling
 click into the calendar to the right lower corner
