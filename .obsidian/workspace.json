@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "templates/proposal_talk.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "templates/proposal_talk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "templates/proposal_talk.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "templates/proposal_talk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "templates/proposal_talk.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,11 +214,17 @@
   },
   "active": "679c68958263f4e6",
   "lastOpenFiles": [
+    "README.md",
+    "gitignore.md",
+    "gitignore",
+    "projects/example_project/tasks/task.md",
+    "projects/example_project/tasks/00 priorities.canvas",
+    "documentation/tutorials/some tutorial.md",
+    "documentation/overviews/some overview.md",
     "talks/poster/a poster.md",
     "talks/presentation/some talk proposal.md",
     "templates/proposal_talk.md",
     "templates/proposal_project.md",
-    "README.md",
     "talks/presentation/gfö - 2023 - The Future of Biodiversity – overcoming barriers of taxa, realms and scales/Untitled.md",
     "talks/presentation/gfö - 2023 - The Future of Biodiversity – overcoming barriers of taxa, realms and scales",
     "talks/presentation",
@@ -238,19 +244,12 @@
     "manuscripts/work in progress/some work in process",
     "projects/example_project/project description.md",
     "manuscripts/published/something already published",
-    "projects/example_project/tasks/task.md",
-    "projects/example_project/tasks/00 priorities.canvas",
     "projects/example_project/tasks/finished/something already finished.md",
     "projects/example_project/tasks/discarded/something not relevant anymore.md",
     "documentation/documentation.md",
     "journaling/daily/2023-05-15.md",
-    "journaling/weekly/2023-W20.md",
-    "journaling/daily/Untitled.md",
-    "journaling/daily/2023-05-14.md",
-    "journaling/weekly/2023-W19.md",
     "manuscripts/ideas/handling super wicked problems/figures",
     "manuscripts/ideas/handling super wicked problems",
-    "journaling/weekly",
     "projects/LUCKINet/documentation/00 loca workflow.canvas",
     "projects/LUCKINet/tasks/00 priorities.canvas",
     "projects/Global Pasture Watch/tasks/00 priorities.canvas",
