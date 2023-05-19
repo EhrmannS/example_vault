@@ -33,17 +33,17 @@ there are operating system specific hotkeys that allow you to access the emotico
 ## 2. repository description
 this is a run through the directory structure of this repository. it is tailored towards scientific work (documenting your thought process, connecting ideas and writing manuscripts) and as a side-effect also personal journaling.
 
-### 2.1 documentation
-insert documentation or any other text that allows to check out some meeting notes, tutorial or other *frequently asked questions* about whatever matters to you.
-
-### 2.2 journaling
+### 2.1 journaling
 click into the calendar to the right lower corner
 - on a day to start a daily entry into the journal (placed in *journaling -> daily -> YYYY-MM-DD*)
 - on a week number to start a weekly entry into the journal (placed in *journaling -> weekly -> YYYY-W*)
 - start any note in *journaling -> activities* to track to-dos or other things you want to keep track of or remind yourself about. 
 
-### 2.3 manuscripts
+### 2.2 manuscripts
 the place to work on and store your manuscripts. each manuscript should have its own directory, in which you can place whetever other material, such as figures/graphs, co-author coments, documentation of the submission process and the final paper. however, don't put the input data, analyses, tentative figures or output data into this directory, for this, create a specific directory in your *projects* or *data* directory elsewhere. once a publications is finished and published, move it to *manuscripts/published*.
+
+### 2.3 notes
+insert documentation or any other text that allows to check out some notes, tutorial or other *frequently asked questions* about whatever matters to you.
 
 ### 2.4 projects
 the place to handle your projects. for scientific projects, this includes the project description, the proposal(s), the milestones/working packages, the tasks (should be as detailed as possible and summarised in milestones) and any documentation that may be important for writing a manuscript or report. ideas for new projects can also go here.
