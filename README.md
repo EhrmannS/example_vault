@@ -7,7 +7,7 @@
 ## 1. miscellaneous tips
 
 ### if you are a beginner, check out tutorials
-such as [this stuff](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd).
+such as [this stuff for basics](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) and [this for advanced thoughts](https://www.youtube.com/playlist?list=PL-1Nqb2waX4X2HudaI-8jVqDE8W7aHWbF).
 
 ### make use of search engines
 any term mentioned here is covered by blogs and youtube videos to a great extent. searching for anything you read here, will give you a plethora of additional help.
